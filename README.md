@@ -6,4 +6,4 @@
 [] World Saving
 
 
-> "Discord Server", [Link](https://discord.gg/zXEbDpUcFM/)。
+> "Discord Server", [Link](https://discord.gg/zXEbDpUcFM)。
