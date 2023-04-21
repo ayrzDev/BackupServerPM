@@ -1,0 +1,5 @@
+name: BackupTools
+main: BackupTools\Ayrz\Main
+api: 4.12.0
+version: 1
+author: Ayrz
